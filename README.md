@@ -11,6 +11,9 @@ Exploratory Data Analysis or (EDA) is understanding the data sets by summarizing
 
 To give a piece of brief information about the data set this data contains more of 10, 000 rows and more than 10 columns which contains features of the car such as Engine Fuel Type, Engine Size, HP, Transmission Type, highway MPG, city MPG and many more.
 
+![image](https://user-images.githubusercontent.com/60151306/179448456-138453a2-f995-4e4c-b18f-8e0101a82493.png)
+
+
 ## Histogram
 
 Histogram refers to the frequency of occurrence of variables in an interval. In this case, there are mainly 10 different types of car manufacturing companies, but it is often important to know who has the most number of cars. To do this histogram is one of the trivial solutions which lets us know the total number of car manufactured by a different company.
